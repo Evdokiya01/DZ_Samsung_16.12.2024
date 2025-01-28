@@ -133,8 +133,7 @@ class MyViewPaint extends View {
         canvas.drawRect(780,900,990,930,paint);
         paint.setColor(Color.GRAY);
         canvas.drawRect(782,902,988,928,paint);
-
-//Дом, солнце, дерево и скамейка до рисования полос
+// ляляля
     }
     //-------
 }
